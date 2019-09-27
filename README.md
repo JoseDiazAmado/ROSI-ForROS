@@ -46,10 +46,10 @@ The team's main objective is to develop computational algorithms applied to auto
 
 
 ##### 4. Open a bash terminal and tipe the follow commands:
-+ `$ roscore` # start a ROS master
+- `$ roscore` # start a ROS master
 
 ###### 4.1 In a new bash tab:
-+ `$ vrep` # to open the vrep simulator
+- `$ vrep` # to open the vrep simulator
 
 ###### 4.2 In a new bash tab:
 - `$ cd catkin_ws` # open your catkin workspace
