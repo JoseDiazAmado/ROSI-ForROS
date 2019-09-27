@@ -24,25 +24,25 @@ The team's main objective is to develop computational algorithms applied to auto
 ## Instructions
 
 ##### 1. Copy the follow files in the script folder:
-- [ ] valeNeuralNetwork.ipynb # Description of strategy used in competition
-- [ ] rosi_joy.py # Rosi node
-- [ ] model.h # Trainned CNN model to avoid obstacles
-- [ ] modelLadder.h # Trainned CNN model to go up the stairs
-- [ ] model.py # To train a new CNN model
+- [ ] *valeNeuralNetwork.ipynb*  # Description of strategy used in competition
+- [ ] *rosi_joy.py* # Rosi node
+- [ ] *model.h* # Trainned CNN model to avoid obstacles
+- [ ] *modelLadder.h* # Trainned CNN model to go up the stairs
+- [ ] *model.py* # To train a new CNN model
 
 ##### 2. Now, create the follow folders in the script folder:
-- [ ] rgb_data # To save data for training a new CNN model
-- [ ] robotCommands # To sabe the xls file with the motors traction commands
-- [ ] map # To save the GPS tracking
+- [ ] *rgb_data* # To save data for training a new CNN model
+- [ ] *robotCommands* # To sabe the xls file with the motors traction commands
+- [ ] *map* # To save the GPS tracking
 
 ##### 3. Replace your own paths in the Rosi node 
-- [ ] model1 = load_model('/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/model.h5') # Replace with your path folder
-- [ ] model2 = load_model('/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/modelLadder.h5') # Replace with your path folder
-- [ ] path_to_imageName1 = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/'+imageName1+'/' # Replace with your path folder
-- [ ] path_to_imageName2 = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/'+imageName2+'/' # Replace with your path folder 
-- [ ] path_to_folder = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/robotCommands/' # Replace with your path folder
-- [ ] path_to_folder = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/map/' # Replace with your path folder
-- [ ] plt.savefig('/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/map/map.png') # Replace with your path folder
+- [ ] model1 = load_model('/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/model.h5') 
+- [ ] model2 = load_model('/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/modelLadder.h5') 
+- [ ] path_to_imageName1 = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/'+imageName1+'/' 
+- [ ] path_to_imageName2 = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/'+imageName2+'/' 
+- [ ] path_to_folder = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/robotCommands/' 
+- [ ] path_to_folder = '/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/map/' 
+- [ ] plt.savefig('/home/raphaell/catkin_ws_ROSI/src/rosi_defy/script/map/map.png') 
 
 
 ##### 4. Open a bash terminal and tipe the follow commands:
