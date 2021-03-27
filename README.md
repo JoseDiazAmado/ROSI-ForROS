@@ -70,6 +70,7 @@ The team's main objective is to develop computational algorithms applied to auto
 
 Institutions: Federal Institute of Paraiba - IFPB - (Cajazeiras) and Federal Institute of Bahia - IFBA (Vitoria da Conquista).
 * Raphaell Maciel de Sousa (team leader/IFPB)
+* José Alberto Diaz Amado (IFBA)
 * Gerberson Felix da Silva (IFPB)	
 * Jean Carlos Palácio Santos (IFBA)
 * Rafael Silva Nogueira Pacheco (IFBA)
@@ -77,7 +78,7 @@ Institutions: Federal Institute of Paraiba - IFPB - (Cajazeiras) and Federal Ins
 * Sérgio Ricardo Ferreira Andrade Júnior (IFBA)
 * Lucas dos Santos Ribeiro (IFBA)
 * Félix Santana Brito (IFBA)
-* José Alberto Diaz Amado (IFBA)
+
 
 
 ## License
